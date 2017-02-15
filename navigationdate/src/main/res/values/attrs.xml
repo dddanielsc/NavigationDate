@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="NavigationDate">
+
+        <!--color-->
+        <attr name="navLabelColor" format="reference" />
+
+
+        <!--strings-->
+        <attr name="navInitialLabel" format="string" />
+
+        <!--references-->
+        <attr name="buttonBackIcon" format="reference" />
+        <attr name="buttonNextIcon" format="reference" />
+
+
+    </declare-styleable>
+
+
+
+</resources>
